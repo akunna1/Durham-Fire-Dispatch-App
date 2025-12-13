@@ -1,6 +1,6 @@
 # Durham Fire Dispatch App 🚒
 
-**Durham Dispatch App** is a simulation of a real emergency dispatch system for the City of Durham. The app **responds only to Fire incidents**, ignoring Police and EMS calls, and uses pre-existing incident data for processing.
+**Durham Fire Dispatch App** is a simulation of a real emergency dispatch system for the City of Durham. The app **responds only to Fire incidents**, ignoring Police and EMS calls, and uses pre-existing incident data for processing.
 
 ## Features
 
@@ -14,6 +14,7 @@
 
 * **Next.js** + **TypeScript** for frontend and backend
 * **TailwindCSS** for styling
+* **Leaflet.js** for map display
 * **Turf.js** for geospatial calculations
 * CSV and GeoJSON files for incident and station data
 
