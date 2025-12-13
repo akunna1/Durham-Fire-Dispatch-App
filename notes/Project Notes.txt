@@ -1,0 +1,2 @@
+Project Notes:
+- NAD83 / North Carolina State Plane (US feet) EPSG:2264 needs to be reprojected to EPSG:4326 (WGS84 lat/long) because Turf.js, Leaflet, Mapbox cannot use this directly.

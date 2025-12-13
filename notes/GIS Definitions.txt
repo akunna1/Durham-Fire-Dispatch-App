@@ -1,0 +1,11 @@
+1. State Plane – A coordinate system that divides the U.S. into zones for very accurate local mapping, often in feet or meters.
+
+2. Datum – A reference surface that defines the shape of the Earth and the origin for measurements and coordinates.
+
+3. NAD 1983 (NAD 83) – A specific geodetic datum for North America that tells software how to interpret coordinates on the Earth’s surface.
+
+4. NC FIPS 3200 – The North Carolina State Plane zone code used for mapping the state; it tells software which State Plane zone to use.
+
+5. ESPG - a unique code that tells a computer the datum, projection, units, and zone of a coordinate system so it knows how to interpret the coordinates correctly.
+
+6. EPSG 2264 – A code that uniquely identifies the North Carolina State Plane (NAD 1983) coordinate system in feet, used to convert between XY and latitude/longitude.

@@ -1,0 +1,8 @@
+Priority Levels:
+
+Ω (Omega): Lowest, non-emergent (e.g., poison consult)
+A (Alpha): Non-life-threatening, Basic Life Support (BLS), no lights/sirens
+B (Bravo): Possibly life-threatening, BLS, lights/sirens
+C (Charlie): Potentially life-threatening, may need Advanced Life Support (ALS), no lights/sirens
+D (Delta): Life-threatening, ALS, lights/sirens
+E (Echo): Highest urgency, full arrest/imminent death, rapid ALS
