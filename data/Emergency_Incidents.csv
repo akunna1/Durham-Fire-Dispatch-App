@@ -1,0 +1,31 @@
+Incident #,X,Y,Chief Complaint,Determinant Code,Priority Level,Response Type,Who to Send
+001,2063948.997,809892.6701,Person on Fire,69-E-1,Echo (E),Rapid ALS,"Fire, EMS"
+002,2016135.117,834081.04,Abdominal Pain,1-C-3,Charlie (C),"ALS, Cold",EMS
+003,2018611.627,791018.93,Domestic Disturbance,4-B-1,Bravo (B),"BLS, Hot",Police
+004,2061635.307,796299.11,Accidental Poisoning,23-Ω-1,Omega (Ω),Consult Only,EMS
+005,2058438.007,811626.08,Vehicle Fire,71-D-1,Delta (D),"ALS, Hot","Fire, Police"
+006,2018349.077,792334.3499,Cardiac Arrest,9-E-1,Echo (E),Rapid ALS,"Fire, EMS"
+007,2014644.877,792436.9599,Traffic Accident,29-D-1,Delta (D),"ALS, Hot","Police, EMS"
+008,2032550.687,848602.7,HAZMAT Incident,61-D-1,Delta (D),"ALS, Hot","Fire, Police, EMS"
+009,2020000.997,815361.61,Overdose,23-D-1,Delta (D),"ALS, Hot",EMS
+010,2048622.667,810743.8698,Breathing Problems,6-D-1,Delta (D),"ALS, Hot",EMS
+011,2055768.087,794315.8699,Domestic Disturbance,4-B-1,Bravo (B),"BLS, Hot",Police
+012,2022125.627,815861.1099,Fall Injury,17-C-1,Charlie (C),"ALS, Cold",EMS
+013,2028559.937,807070.87,Missing Person,2-A-1,Alpha (A),"BLS, Cold",Police
+014,2072064.257,792049.8898,Structure Fire,69-D-1,Delta (D),"ALS, Hot","Fire, EMS"
+015,2042549.497,806373.8901,Water Rescue,72-D-1,Delta (D),"ALS, Hot","Fire, EMS"
+016,2031848.833,835672.8239,Watercraft in Distress,73-D-1,Delta (D),"ALS, Hot","Fire, EMS"
+017,2007477.317,845876.42,Citizen Assist,53-A-1,Alpha (A),"BLS, Cold",EMS
+018,2028183.844,844943.1932,Person on Fire,69-E-1,Echo (E),Rapid ALS,"Fire, EMS"
+019,2052658.997,832491.87,Domestic Disturbance,4-B-1,Bravo (B),"BLS, Hot",Police
+020,2033131.387,808795.5499,Watercraft in Distress,73-D-1,Delta (D),"ALS, Hot","Fire, EMS"
+021,2061093.747,805735.87,Vehicle Fire,71-D-1,Delta (D),"ALS, Hot","Fire, Police"
+022,2029459.706,813726.0456,Breathing Problems,6-D-1,Delta (D),"ALS, Hot",EMS
+023,2037316.877,829379.89,Gas Leak/Odor,60-D-1,Delta (D),"ALS, Hot","Fire, EMS"
+024,2005585.477,808731.8407,Smoke Investigation,68-B-1,Bravo (B),"BLS, Hot",Fire
+025,2018301.907,809132.2701,Overdose,23-D-1,Delta (D),"ALS, Hot",EMS
+026,2021437.31,789124.5663,Cardiac Arrest,9-E-1,Echo (E),Rapid ALS,"Fire, EMS"
+027,2052403.567,828663.6001,Missing Person,2-A-1,Alpha (A),"BLS, Cold",Police
+028,2028300.507,775078.66,Domestic Disturbance,4-B-1,Bravo (B),"BLS, Hot",Police
+029,2052586.107,829132.2199,Structure Fire,69-D-1,Delta (D),"ALS, Hot","Fire, EMS"
+030,2020000.0,800000.0,Missing Person,2-A-1,Alpha (A),"BLS, Cold",Police
