@@ -1,0 +1,290 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 1",
+        "Battalion": "1",
+        "Address": "139 E. Morgan Street Durham, NC 27701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.897998,
+          35.996845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 2",
+        "Battalion": "1",
+        "Address": "1001 9th Street Durham, NC 27705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.921872,
+          36.014123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 3",
+        "Battalion": "4",
+        "Address": "822 N. Miami Boulevard Durham, NC 27703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8670371,
+          35.9909025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 4",
+        "Battalion": "1",
+        "Address": "1818 Riddle Road Durham, NC 27713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8896578,
+          35.9557762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 5",
+        "Battalion": "1",
+        "Address": "2212 Chapel Hill Road Durham, NC 27707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9309874,
+          35.983517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 6",
+        "Battalion": "3",
+        "Address": "3700 Swarthmore Road Durham, NC 27707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9511356,
+          35.9335307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 7",
+        "Battalion": "2",
+        "Address": "3919 N. Duke Street Durham, NC 27704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9046245,
+          36.054402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 8",
+        "Battalion": "4",
+        "Address": "225 Lick Creek Lane Durham, NC 27703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8083541,
+          35.9786256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 9",
+        "Battalion": "4",
+        "Address": "1648 Midland Terrace, Durham, NC 27704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8675507,
+          36.0183938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 10",
+        "Battalion": "2",
+        "Address": "1805 Cole Mill Road Durham, NC 27712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9615521,
+          36.0419144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 11",
+        "Battalion": "1",
+        "Address": "2800 W. Cornwallis Road Durham, NC 27705 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9683999,
+          35.9901723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 12",
+        "Battalion": "3",
+        "Address": "1230 Carpenter Fletcher Road Durham, NC 27713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8974641,
+          35.9152339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 13",
+        "Battalion": "4",
+        "Address": "2901 S. Miami Boulevard Durham, NC 27703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8442828,
+          35.9279115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 14",
+        "Battalion": "2",
+        "Address": "1327 Umstead Road Durham, NC 27712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9402175,
+          36.0824202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 15",
+        "Battalion": "2",
+        "Address": "2060 Torredge Road Durham, NC 27712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8676402,
+          36.0982379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 16",
+        "Battalion": "3",
+        "Address": "6303 Farrington Road Chapel Hill, NC 27517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9827444,
+          35.9057293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 17",
+        "Battalion": "4",
+        "Address": "5503 Leesville Road Durham, NC 27703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.796138,
+          35.9410705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 18",
+        "Battalion": "3",
+        "Address": "6919 Herndon Road  Durham, NC 27713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9265485,
+          35.8985502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Station": "Station 19",
+        "Battalion": "3",
+        "Address": "4716 Old Page Road Durham, NC  27703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8465706,
+          35.8838198
+        ]
+      }
+    }
+  ]
+}

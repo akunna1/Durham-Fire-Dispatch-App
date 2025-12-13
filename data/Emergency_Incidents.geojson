@@ -1,0 +1,545 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "1",
+        "Complaint": "Person on Fire",
+        "DeterminantCode": "69-E-1",
+        "Priority": "Echo (E)",
+        "ResponseType": "Rapid ALS",
+        "WhoToSend": "Fire, EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.78389,
+          35.975065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "2",
+        "Complaint": "Abdominal Pain",
+        "DeterminantCode": "1-C-3",
+        "Priority": "Charlie (C)",
+        "ResponseType": "ALS, Cold",
+        "WhoToSend": "EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.945438,
+          36.041691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "3",
+        "Complaint": "Domestic Disturbance",
+        "DeterminantCode": "4-B-1",
+        "Priority": "Bravo (B)",
+        "ResponseType": "BLS, Hot",
+        "WhoToSend": "Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.937154,
+          35.923391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "4",
+        "Complaint": "Accidental Poisoning",
+        "DeterminantCode": "23-O-1",
+        "Priority": "Omega (O)",
+        "ResponseType": "Consult Only",
+        "WhoToSend": "EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.791806,
+          35.937735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "5",
+        "Complaint": "Vehicle Fire",
+        "DeterminantCode": "71-D-1",
+        "Priority": "Delta (D)",
+        "ResponseType": "ALS, Hot",
+        "WhoToSend": "Fire, Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.802504,
+          35.979858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "6",
+        "Complaint": "Cardiac Arrest",
+        "DeterminantCode": "9-E-1",
+        "Priority": "Echo (E)",
+        "ResponseType": "Rapid ALS",
+        "WhoToSend": "Fire, EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.938038,
+          35.927005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "7",
+        "Complaint": "Traffic Accident",
+        "DeterminantCode": "29-D-1",
+        "Priority": "Delta (D)",
+        "ResponseType": "ALS, Hot",
+        "WhoToSend": "Police, EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.950549,
+          35.927293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "8",
+        "Complaint": "HAZMAT Incident",
+        "DeterminantCode": "61-D-1",
+        "Priority": "Delta (D)",
+        "ResponseType": "ALS, Hot",
+        "WhoToSend": "Fire, Police, EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.889859,
+          36.081545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "9",
+        "Complaint": "Overdose",
+        "DeterminantCode": "23-D-1",
+        "Priority": "Delta (D)",
+        "ResponseType": "ALS, Hot",
+        "WhoToSend": "EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.932405,
+          35.990261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "10",
+        "Complaint": "Breathing Problems",
+        "DeterminantCode": "6-D-1",
+        "Priority": "Delta (D)",
+        "ResponseType": "ALS, Hot",
+        "WhoToSend": "EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.835683,
+          35.977484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "11",
+        "Complaint": "Domestic Disturbance",
+        "DeterminantCode": "4-B-1",
+        "Priority": "Bravo (B)",
+        "ResponseType": "BLS, Hot",
+        "WhoToSend": "Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.811638,
+          35.932319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "12",
+        "Complaint": "Fall Injury",
+        "DeterminantCode": "17-C-1",
+        "Priority": "Charlie (C)",
+        "ResponseType": "ALS, Cold",
+        "WhoToSend": "EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.925222,
+          35.991629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "13",
+        "Complaint": "Missing Person",
+        "DeterminantCode": "2-A-1",
+        "Priority": "Alpha (A)",
+        "ResponseType": "BLS, Cold",
+        "WhoToSend": "Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.903501,
+          35.967466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "14",
+        "Complaint": "Structure Fire",
+        "DeterminantCode": "69-D-1",
+        "Priority": "Delta (D)",
+        "ResponseType": "ALS, Hot",
+        "WhoToSend": "Fire, EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.756612,
+          35.925997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "15",
+        "Complaint": "Water Rescue",
+        "DeterminantCode": "72-D-1",
+        "Priority": "Delta (D)",
+        "ResponseType": "ALS, Hot",
+        "WhoToSend": "Fire, EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.85623,
+          35.965505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "16",
+        "Complaint": "Watercraft in Distress",
+        "DeterminantCode": "73-D-1",
+        "Priority": "Delta (D)",
+        "ResponseType": "ALS, Hot",
+        "WhoToSend": "Fire, EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.892282,
+          36.046028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "17",
+        "Complaint": "Citizen Assist",
+        "DeterminantCode": "53-A-1",
+        "Priority": "Alpha (A)",
+        "ResponseType": "BLS, Cold",
+        "WhoToSend": "EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.974712,
+          36.074103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "18",
+        "Complaint": "Person on Fire",
+        "DeterminantCode": "69-E-1",
+        "Priority": "Echo (E)",
+        "ResponseType": "Rapid ALS",
+        "WhoToSend": "Fire, EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.904649,
+          36.071504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "19",
+        "Complaint": "Domestic Disturbance",
+        "DeterminantCode": "4-B-1",
+        "Priority": "Bravo (B)",
+        "ResponseType": "BLS, Hot",
+        "WhoToSend": "Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.821909,
+          36.037208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "20",
+        "Complaint": "Watercraft in Distress",
+        "DeterminantCode": "73-D-1",
+        "Priority": "Delta (D)",
+        "ResponseType": "ALS, Hot",
+        "WhoToSend": "Fire, EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.888046,
+          35.972191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "21",
+        "Complaint": "Vehicle Fire",
+        "DeterminantCode": "71-D-1",
+        "Priority": "Delta (D)",
+        "ResponseType": "ALS, Hot",
+        "WhoToSend": "Fire, Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.793569,
+          35.963662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "22",
+        "Complaint": "Breathing Problems",
+        "DeterminantCode": "6-D-1",
+        "Priority": "Delta (D)",
+        "ResponseType": "ALS, Hot",
+        "WhoToSend": "EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.900438,
+          35.985746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "23",
+        "Complaint": "Gas Leak/Odor",
+        "DeterminantCode": "60-D-1",
+        "Priority": "Delta (D)",
+        "ResponseType": "ALS, Hot",
+        "WhoToSend": "Fire, EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.873813,
+          36.028724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "24",
+        "Complaint": "Smoke Investigation",
+        "DeterminantCode": "68-B-1",
+        "Priority": "Bravo (B)",
+        "ResponseType": "BLS, Hot",
+        "WhoToSend": "Fire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.981137,
+          35.972066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "25",
+        "Complaint": "Overdose",
+        "DeterminantCode": "23-D-1",
+        "Priority": "Delta (D)",
+        "ResponseType": "ALS, Hot",
+        "WhoToSend": "EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.938162,
+          35.973152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "26",
+        "Complaint": "Cardiac Arrest",
+        "DeterminantCode": "9-E-1",
+        "Priority": "Echo (E)",
+        "ResponseType": "Rapid ALS",
+        "WhoToSend": "Fire, EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.927615,
+          35.918182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "27",
+        "Complaint": "Missing Person",
+        "DeterminantCode": "2-A-1",
+        "Priority": "Alpha (A)",
+        "ResponseType": "BLS, Cold",
+        "WhoToSend": "Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.822796,
+          36.026693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "28",
+        "Complaint": "Domestic Disturbance",
+        "DeterminantCode": "4-B-1",
+        "Priority": "Bravo (B)",
+        "ResponseType": "BLS, Hot",
+        "WhoToSend": "Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.904482,
+          35.879579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "29",
+        "Complaint": "Structure Fire",
+        "DeterminantCode": "69-D-1",
+        "Priority": "Delta (D)",
+        "ResponseType": "ALS, Hot",
+        "WhoToSend": "Fire, EMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.822176,
+          36.027979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Incident": "30",
+        "Complaint": "Missing Person",
+        "DeterminantCode": "2-A-1",
+        "Priority": "Alpha (A)",
+        "ResponseType": "BLS, Cold",
+        "WhoToSend": "Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.932444,
+          35.948061
+        ]
+      }
+    }
+  ]
+}
