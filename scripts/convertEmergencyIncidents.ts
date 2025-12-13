@@ -1,3 +1,5 @@
+// Run with npx ts-node scripts/convertEmergencyIncidents.ts in VS code terminal
+
 import fs from "fs";
 import csv from "csv-parser";
 import { format } from "@fast-csv/format";

@@ -1,7 +1,7 @@
 Project Notes:
 - NAD83 / North Carolina State Plane (US feet) EPSG:2264 needs to be reprojected to EPSG:4326 (WGS84 lat/long) because Turf.js, Leaflet, Mapbox cannot use this directly.
 - Ctrl + Shift + R helps reset the browser
-- npm install proj4 csv-parser fast-csv (to run script)
-- npm install -D ts-node @types/node (to run script)
-- npx ts-node scripts/convertEmergencyIncidents.ts
+- npm install proj4 csv-parser fast-csv (to make script work)
+- npm install -D ts-node @types/node (to make script work)
+- npx ts-node scripts/convertEmergencyIncidents.ts (to run script)
 
