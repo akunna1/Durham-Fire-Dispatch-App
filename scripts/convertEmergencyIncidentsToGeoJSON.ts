@@ -1,10 +1,8 @@
 // Run with npx ts-node scripts/convertEmergencyIncidentsToGeoJSON.ts in VS code terminal
 
-
 import fs from "fs";
 import csv from "csv-parser";
 
-// Input CSV and output GeoJSON paths
 const INPUT = "./data/Emergency_Incidents_LatLng.csv";
 const OUTPUT = "./data/Emergency_Incidents.geojson";
 

@@ -3,7 +3,6 @@
 import fs from "fs";
 import csv from "csv-parser";
 
-// Input CSV and output GeoJSON paths
 const INPUT = "./data/Fire_Stations_Geocoded.csv";
 const OUTPUT = "./data/Fire_Stations.geojson";
 
