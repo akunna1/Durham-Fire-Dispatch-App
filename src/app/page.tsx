@@ -11,7 +11,6 @@ export default function HomePage() {
 
   return (
     <div className="flex flex-col h-screen">
-      {/* pass only serializable state (boolean) via callback */}
       <Navbar onToggle={setIsRunning} />
       <div className="flex-1">
         <CADMap isRunning={isRunning} />
