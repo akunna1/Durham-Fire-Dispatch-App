@@ -8,3 +8,5 @@ VS Terminal Codes:
 - npm install -D ts-node @types/node (to make scripts work)
 - each script has its own line of code to run too
 
+Making the Project more Automatic?
+- Rather than running the 4 scripts with npx, I want it to be done automatically before the project starts...
