@@ -7,7 +7,7 @@ import L from "leaflet";
 
 const center: [number, number] = [35.994, -78.898];
 
-export default function DispatchMap() {
+export default function CADMap() {
   const [stations, setStations] = useState<any>(null);
   const [mounted, setMounted] = useState(false); // NEW
 
