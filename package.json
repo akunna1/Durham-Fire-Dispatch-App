@@ -9,6 +9,8 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@turf/turf": "^7.3.1",
+    "@types/geojson": "^7946.0.16",
     "csv-parser": "^3.2.0",
     "fast-csv": "^5.0.5",
     "leaflet": "^1.9.4",
